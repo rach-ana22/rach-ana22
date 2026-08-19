@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hello there 👋
+
+I am a BCA graduate, currently strengthening my programming fundamentals, learning new tools and building small projects to gain practical experience. I'm presently learning more about python, artificial intelligence and machine learning concepts that can help in building better contributions. As this domain is vast and includes various concepts I will try learning and building the projects which I am interested in.
+
+Tools and Technologies:
+- Python: Basics, libraries like NumPy, Pandas, Matplotlib
+- Fundamentals in Programming Languages like C, Java, R
+- Oracle SQL
+- Fundamentals in HTML and CSS
+
+Currently Learning
+- Git and GitHub
+- Scikit-learn and Machine Learning in Python
+- Building related projects
 
 <!--
 **rach-ana22/rach-ana22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
