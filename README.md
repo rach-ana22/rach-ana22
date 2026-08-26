@@ -1,10 +1,10 @@
 ## Hello there 👋
 
-I am a BCA graduate, currently strengthening my programming fundamentals, learning new tools and building small projects to gain practical experience. I'm presently learning more about python, artificial intelligence and machine learning concepts that can help in building better contributions. As this domain is vast and includes various concepts I will try learning and building the projects which I am interested in.
+I am a BCA graduate, currently strengthening my programming fundamentals, learning new tools and building small projects to gain practical experience. I'm presently learning more about python, artificial intelligence and machine learning concepts that can help in building better contributions.
 
 Tools and Technologies:
 - Python: Basics, libraries like NumPy, Pandas, Matplotlib
-- Fundamentals in Programming Languages like C, Java, R
+- Fundamental concepts in Programming Languages like C, Java, R
 - Oracle SQL
 - Fundamentals in HTML and CSS
 
