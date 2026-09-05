@@ -4,14 +4,16 @@ I am a BCA graduate, currently strengthening my programming fundamentals, learni
 
 Tools and Technologies:
 - Python: libraries like NumPy, Pandas, Matplotlib, Scikit-learn
+- Tableau
 - Fundamental concepts in Programming Languages like C, Java, R
 - Fundamentals in HTML and CSS, SQL (oracle)
 - Git and GitHub
 
-Currently Learning
+Learning
+- Power BI
 - n8n
-- Tableau
 - Databricks
+- Prompt Engineering
 - Building related projects
 
 <!--
